@@ -1,5 +1,7 @@
 
-//-----Eerste functie-----
+//-----functie-----
+
+// Je moet gebruik maken van de eerste parameter!
 
 function pepernotenFabriek(string,numberOfPepernoten) {
     // pepernoten  notpepener
@@ -30,10 +32,6 @@ function pepernotenFabriek(string,numberOfPepernoten) {
     } )
     return pepernotenZak
 }
-
-
-
-
 
 module.exports = {
     pepernotenFabriek,
